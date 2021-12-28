@@ -1,4 +1,4 @@
-Al Amrikasir
+#Al Amrikasir
 =================
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Gotta stiffy uuuh
 - ⚡ Fun fact: I'm pretty smart
 -->
-[![My github stats](https://github-readme-stats.vercel.app/api?username=amrikasir)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=amrikasir&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
