@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**amrikasir/amrikasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Al Amrikasir
+=================
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on _PT. Menara Agung_
+- 🌱 I’m currently learning _nodejs, python, java_
+<!--
+- 👯 I’m looking to collaborate on _some networking projects_
+- 🤔 I’m looking for help with _a compiler perhaps_
+- 💬 Ask me about _Portuguese Mozambique_
+- 📫 How to reach me: _deavmi on [BonoboNET]()_
+- 😄 Pronouns: Gotta stiffy uuuh
+- ⚡ Fun fact: I'm pretty smart
 -->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=amrikasir)](https://github.com/anuraghazra/github-readme-stats)
