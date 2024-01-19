@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on _PT. Menara Agung_
-- 🌱 I’m currently learning _nodejs, python, java_
+- 🔭 I was work on _PT. Menara Agung_ for 3.5 years
+- 🌱 I’m currently learning _Go, C++, python, java_
 <!--
 - 👯 I’m looking to collaborate on _some networking projects_
 - 🤔 I’m looking for help with _a compiler perhaps_
